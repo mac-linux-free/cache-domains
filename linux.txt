@@ -1,0 +1,2 @@
+ftp.debian.org
+download.proxmox.com
